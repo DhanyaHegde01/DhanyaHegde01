@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">An IT fresher at JSS Science and Technology University(formerly SJCE).I like exploring new fields of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanyahegde01&label=Profile%20views&color=0e75b6&style=flat" alt="dhanyahegde01" /> </p>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif">
 
 
 <h3 align="left">Languages and Tools:</h3>
