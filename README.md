@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Dhanya Hegde</h1>
-<h3 align="center">An Information Science and Engineering Junior at JSS Science and Technology University(formerly SJCE).I like exploring new fields of technology.</h3>
+<h3 align="center">An Information Science and Engineering Senior at JSS Science and Technology University(formerly SJCE).I like exploring new fields of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanyahegde01&label=Profile%20views&color=0e75b6&style=flat" alt="dhanyahegde01" /> </p>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif">
